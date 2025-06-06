@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0eb0678-9f74-4c5d-87ef-a3245448039c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Linear/src/FindMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear/src/search_in_2d_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear/src/search_in_range.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linear/src/even_digits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linear/src/maxwealth.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +36,8 @@
   "keyToString": {
     "Application.FindMin.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.even_digits.executor": "Run",
+    "Application.maxwealth.executor": "Run",
     "Application.search_in_2d_array.executor": "Run",
     "Application.search_in_range.executor": "Run",
     "Application.searchstrings.executor": "Run",
